@@ -23,7 +23,13 @@ npm run dev
 ```sh
 npm run format
 ```
+
+## Additional things to do
+- Fill in the required env varuables in the .env file
+- Setup your controllers, models and and other required files or folder
+- You are good to go
 ---
+
 
 ## Author
 
